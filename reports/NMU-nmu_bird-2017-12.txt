@@ -1,0 +1,44 @@
+Report for Institution Code NMU, Resource nmu_bird
+Usage stats for December 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 3
+Number of records retrieved in searches: 7
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-08 ; Times: 1
+	Date: 2017-12-11 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Gray-cheeked Thrush" ; Times: 2
+	Query: "institutioncode:NMU" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 674 download events in this period)
+Total number of records downloaded: 9
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-14 ; Times: 1
+	Date: 2017-12-15 ; Times: 1
+	Date: 2017-12-01 ; Times: 1
+	Date: 2017-12-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Megaceryle alcyon" ; Times: 1
+	Query: "clangula hyemalis" ; Times: 1
+	Query: "preparations:egg" ; Times: 1
+	Query: "Virginia Rail" ; Times: 1
+
+
+End of report.
