@@ -1,0 +1,60 @@
+Report for Institution Code NMU, Resource nmu_bird
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 1
+Number of records retrieved in searches: 4
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-05 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "locality:bois blanc island" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 22 (out of 1892 download events in this period)
+Total number of records downloaded: 81
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 22
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-15 ; Times: 1
+	Date: 2018-02-27 ; Times: 1
+	Date: 2018-02-26 ; Times: 1
+	Date: 2018-02-28 ; Times: 1
+	Date: 2018-02-09 ; Times: 2
+	Date: 2018-02-08 ; Times: 1
+	Date: 2018-02-02 ; Times: 2
+	Date: 2018-02-07 ; Times: 1
+	Date: 2018-02-20 ; Times: 5
+	Date: 2018-02-05 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:mexicanus genus:Carpodacus continent:North America" ; Times: 1
+	Query: "specificepithet:melodia genus:Melospiza" ; Times: 3
+	Query: "specificepithet:acadicus genus:Aegolius" ; Times: 1
+	Query: "specificepithet:galbula genus:Icterus" ; Times: 1
+	Query: "specificepithet:melodia genus:melospiza" ; Times: 3
+	Query: "michigan" ; Times: 1
+	Query: "window" ; Times: 1
+	Query: "specificepithet:livia genus:Columba continent:North America" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo" ; Times: 1
+	Query: "Window" ; Times: 1
+	Query: "specificepithet:asio genus:Megascops" ; Times: 1
+	Query: "specificepithet:georgiana genus:melospiza" ; Times: 1
+	Query: "specificepithet:cardinalis genus:Cardinalis" ; Times: 1
+	Query: "specificepithet:macroura genus:zenaida" ; Times: 1
+	Query: "specificepithet:livia genus:Columba" ; Times: 1
+	Query: "specificepithet:purpureus genus:Carpodacus" ; Times: 1
+	Query: "window class:Aves" ; Times: 2
+
+
+End of report.
