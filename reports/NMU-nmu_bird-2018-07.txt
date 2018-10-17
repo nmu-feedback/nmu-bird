@@ -1,0 +1,42 @@
+Report for Institution Code NMU, Resource nmu_bird
+Usage stats for July 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 0
+Number of records retrieved in searches: 0
+Number of different countries where searches have been originated: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 977 download events in this period)
+Total number of records downloaded: 8
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: United States ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-04 ; Times: 1
+	Date: 2018-07-31 ; Times: 1
+	Date: 2018-07-06 ; Times: 3
+	Date: 2018-07-17 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:magna genus:Sturnella" ; Times: 1
+	Query: "specificepithet:varia genus:strix" ; Times: 1
+	Query: "Pinicola enucleator" ; Times: 1
+	Query: "Catharus ustulatus" ; Times: 1
+	Query: "Barred owl" ; Times: 1
+	Query: "specificepithet:pusilla genus:Spizella" ; Times: 1
+	Query: "Carduelis pinus" ; Times: 1
+
+
+End of report.
