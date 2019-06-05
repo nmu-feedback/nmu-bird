@@ -1,0 +1,46 @@
+Report for Institution Code NMU, Resource nmu_bird
+Usage stats for May 2019, generated on 2019/06/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 11
+Number of records retrieved in searches: 25
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 9
+	Country: Denmark ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-21 ; Times: 9
+	Date: 2019-05-22 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Common Pheasant" ; Times: 1
+	Query: "Loxia leucoptera year &gt; 1990 NOT fmnh" ; Times: 1
+	Query: "Common pheasant" ; Times: 6
+	Query: "Loxia leucoptera year &gt; 1990 NOT clo" ; Times: 1
+	Query: "Common pheasant year&lt;=1940" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 940 download events in this period)
+Total number of records downloaded: 8
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 2
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-22 ; Times: 1
+	Date: 2019-05-21 ; Times: 2
+	Date: 2019-05-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1961 year &lt;= 1970" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 1
+	Query: "Ring-necked Pheasant" ; Times: 2
+
+
+End of report.
