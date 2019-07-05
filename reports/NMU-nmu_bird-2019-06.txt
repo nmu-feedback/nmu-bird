@@ -1,0 +1,40 @@
+Report for Institution Code NMU, Resource nmu_bird
+Usage stats for June 2019, generated on 2019/07/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 0
+Number of records retrieved in searches: 0
+Number of different countries where searches have been originated: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 1182 download events in this period)
+Total number of records downloaded: 27
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-07 ; Times: 1
+	Date: 2019-06-04 ; Times: 5
+	Date: 2019-06-03 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Cedar Waxwing" ; Times: 1
+	Query: "snowy owl" ; Times: 1
+	Query: "blue jay" ; Times: 1
+	Query: "White crowned Sparrow" ; Times: 1
+	Query: "Yellow bellied sapsucker" ; Times: 1
+	Query: "ruby throated hummingbird" ; Times: 2
+	Query: "ruby-throated hummingbird" ; Times: 2
+
+
+End of report.
