@@ -1,0 +1,36 @@
+Report for Institution Code NMU, Resource nmu_bird
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 14
+Number of records retrieved in searches: 14
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 14
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-06 ; Times: 14
+
+List of queries that retrieved data from the resource: 
+	Query: "Coccyzus americanus" ; Times: 5
+	Query: "Coccyzus americanus americanus" ; Times: 9
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 1073 download events in this period)
+Total number of records downloaded: 2
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-04 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "black-throated blue warbler" ; Times: 1
+
+
+End of report.
